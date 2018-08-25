@@ -121,7 +121,7 @@ li span {
 
 footer {
   position: absolute;
-  bottom: 50px;
+  bottom: 10px;
   right: 884px;
   text-transform: uppercase;
   padding: 10px;
@@ -130,6 +130,7 @@ footer {
 .made {
   letter-spacing: 3px;
   color: #60b5e7;
+  text-align: center;
 }
 a {
   color: #60b5e7;
